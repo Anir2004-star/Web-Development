@@ -1,8 +1,57 @@
-{
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio Page</title>
+</head>
+<body>
+    <header>
+        <h1>My Name: Anirban Choudhury</h1>
+        <img src="My Image.jpg" alt="My Image" height="150 px" width="150 px">
+        <p>I am a Student</p>
+    </header>
+    <hr/>
+    <section>
+        <h2>Education:</h2>
+        <ul>
+            <li><b>Class 10(WB Board):</b>92.71%(2020)</li>
+            <li><b>Class 12(WB Board):</b>86.2%(2022)</li>
+            <li>Now I am in SRMIST Kattankulthur as a fresher</li>
+            <li><b>Branch:</b>CSE Cloud Computing</li>
+        </ul>
+    </section>
+    <hr/>
+    <section>
+        <h2>Skills:</h2>
+        <ul>
+            <li><b>Proficient in C, Python</b></li>
+            <li><b>HTML</b></li>
+            <li><h4>Learning Web Development</h4></li>
+            <li><h4>Leraning AWS Cloud Practitioner</h4></li>
+        </ul>
+    </section>
+    <hr/>
+    <section>
+        <h2>Hobbies:</h2>
+        <ul>
+            <li>Playing Cricket</li>
+            <li>Curious about Universe, Like to study Stephen Hawking Book</li>
+        </ul>
+    </section>
+    <hr/>
+    <section>
+        <h2></h2>
+    </section>
+    <footer>
+        <h2>Contact:</h2>
+        <ul>
+            <li>Phone no: 8391850026</li>
+            <li>email: anirban.choudhury.2004@gmail.com or anirbanchoudhury602@gmail.com</li>
+        </ul>    
+            <nav>
+            <a href="https://www.linkedin.com/in/anirbanchoudhury90322b61/">My Linkedin Profile</a>
+            </nav>    
+    </footer>
+</body>
+</html>
