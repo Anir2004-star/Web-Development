@@ -1,0 +1,188 @@
+/*
+h2{
+    color: rgb(34,33,190);
+}
+
+p{
+    color: rgb(203,34,83);
+    background-color: black;
+}
+
+button{
+    color: white;
+    background-color: rgb(23,198,37);
+}*/
+/*
+h2{
+    color: #ffa709;
+}
+
+p{
+    color: #00ff12;
+    background-color: #ff0013;
+}
+
+button{
+    color: white;
+    background-color: #21dced;
+}*/
+
+/*#Submit{
+    color: #b92b27
+}*/
+
+/* *{
+    font-family: Arial;
+    background-color: rgb(0,255,0);
+}*/
+
+/*h1,
+h3,
+li{
+    color:#b92b27
+}*/
+
+/*#login{
+        color:green;
+        background-color: orange;
+}*/
+/*
+.upvote{
+        color:#ff00a5
+}
+
+p a{
+    color: orange;
+    background-color: yellow;
+}
+
+p + h3{
+    text-decoration: underline;
+}
+
+div > input{
+    background-color:blueviolet;
+}*/
+/*
+h1{
+    font-family: 'Courier New';
+    color: #1b74e4;
+}
+
+.userbtn{
+    background-color: aqua;
+}
+.userbtn{
+    background-color: aqua;
+}
+
+#searchbtn{
+    color: white;
+    background-color: black;
+}*/
+/*
+nav ul li a{
+    color:fuchsia;
+    background-color: gold;
+}
+
+span .upvote{
+    color:red;
+}
+
+p + h3{
+    color:green;
+}
+
+nav>ul>li{
+    color: blue;
+}
+
+span>button{
+    color: deepskyblue;
+}
+
+button[class="upvote"]{
+    color:lime;
+}
+
+input[type="text"]{
+    color:blueviolet;
+}
+
+input[type="password"]{
+    color:chartreuse;
+}
+
+div[id="myId"] p{
+    color:forestgreen;
+}
+*/
+
+/*
+a:hover{
+    color:rgb(67,244,222);
+}
+
+button:hover{
+    color:red;
+    background-color: #ffa509;
+}
+
+h3:hover{
+    text-decoration: double;
+}
+
+button:active{
+    background-color: hotpink;
+    color:ghostwhite;
+}
+
+p:active{
+    font-family: 'Segoe UI';
+    font-weight: 700;
+    color:darkgreen;
+} 
+
+input[type="radio"]:checked + label{
+    color: red;
+    font-weight: bold;
+}
+
+div:nth-of-type(2){
+    background-color: blanchedalmond;
+}
+
+h1::first-letter{
+    color:red;
+}
+
+h3  ::selection{
+    background-color: chartreuse;
+}
+*/
+/*in css that you will write later that property will get more priority.*/
+/*
+h1{
+    color: pink;
+}
+
+#greet{
+    color: yellow;
+}
+
+.myclass{
+    color: brown;
+}*/
+
+span{
+    background-color: yellow;
+}
+/*
+p{
+    background-color: goldenrod;
+}*/
+
+input{
+    background-color: inherit;
+}
