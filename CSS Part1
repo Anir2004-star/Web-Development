@@ -1,0 +1,266 @@
+<!--
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>Hi there!</h2>
+    <p>My name is Tom &amp; I am there to help you</p>
+    <button>Need Help</button>
+</body>
+</html>
+-->
+
+<!--
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Chapter2</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div>
+    <header>
+        <h1>Quora 
+            <button id="login">Log in</button>
+            <button id="signup">Sign up</button>
+        </h1>
+        <div>
+            <input type="text" placeholder="username">
+            <input type="password" placeholder="password">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="/home">Home</a></li>
+                <li><a href="/following">Following</a></li>
+                <li><a href="/answer">Answer</a></li>
+                <li><a href="/spaces">Spaces</a></li>
+            </ul>
+        </nav>
+        <hr>
+    </header>
+    </div>
+    <div>
+    <main>
+        <p>
+        Adam &nbsp;&nbsp;
+        <a class="follow" href="/adam">Follow /abc</a></span>
+        </p>
+        <h3><u>What is the highest salary for a spacex engineer?</u></h3>
+        <span>
+            <button class="upvote">+upvote</button>
+            <button>answer</button>
+        </span>
+        <hr />
+      </div>
+      <div>
+        <p>
+        Bob &nbsp;&nbsp;
+        <a class="follow" href="/bob">Follow xyz</a>
+        </p>
+        <h3><u>What is the syllabus for JEE 2024?</u></h3>
+        <span>
+            <button class="upvote">+upvote</button>
+            <button>answer</button>
+        </span>
+        <hr />
+      </div>
+      <div>
+        <p>
+        Catlyn &nbsp;&nbsp;&nbsp;&nbsp;
+        <a class="follow" href="/catlyn">Follow pqr</a>
+        </p>
+        <h3><u>>Why is the sky blue?</u></h3>
+        <span>
+            <button class="upvote">+upvote</button>
+            <button>answer</button>
+        </span>
+        <hr />
+        </div>
+        <div>
+        <p>
+            Dan &nbsp;&nbsp;&nbsp;&nbsp;
+            <a class="follow" href="/dan">Follow pqr</a>
+            </p>
+            <h3><u>Why is the sky blue?</u></h3>
+            <span>
+                <button class="upvote">+upvote</button>
+                <button>answer</button>
+            </span>
+            <hr />
+            </div>
+      </main>
+    <div id="myId">
+      <p>
+        This is Paragraph
+      </p>
+      <div>
+        <input type = "radio" id = "yes" name="agreement">
+        <label for = "yes">Yes</label>
+        <input type = "radio" id = "no"name="agreement">
+        <label for = "no">No</label>
+      </div>
+    </div>
+    <h2>404 not found</h2>
+  </body>
+</html>
+-->
+<!--
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Practice Qs</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Facebook</h1>
+    <button class="userbtn">Log in</button>
+    <button class="userbtn">Register</button>
+    <hr />
+    <label for="search">Search</label>
+    <input placeholder="search your friends" id="search" />
+    <button id="searchbtn">Search</button>
+  </body>
+</html>
+-->
+<!--
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Chapter2</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div>
+    <header>
+        <h1>Quora 
+            <button style = "background-color: blueviolet" login">Log in</button>
+            <button style = "background-color: blueviolet" id="signup">Sign up</button>
+        </h1>
+        <div>
+            <input type="text" placeholder="username">
+            <input type="password" placeholder="password">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="/home">Home</a></li>
+                <li><a href="/following">Following</a></li>
+                <li><a href="/answer">Answer</a></li>
+                <li><a href="/spaces">Spaces</a></li>
+            </ul>
+        </nav>
+        <hr>
+    </header>
+    </div>
+    <div>
+    <main>
+        <p>
+        Adam &nbsp;&nbsp;
+        <a class="follow" href="/adam">Follow /abc</a></span>
+        </p>
+        <h3><u>What is the highest salary for a spacex engineer?</u></h3>
+        <span>
+            <button class="upvote">+upvote</button>
+            <button>answer</button>
+        </span>
+        <hr />
+      </div>
+      <div>
+        <p>
+        Bob &nbsp;&nbsp;
+        <a class="follow" href="/bob">Follow xyz</a>
+        </p>
+        <h3><u>What is the syllabus for JEE 2024?</u></h3>
+        <span>
+            <button class="upvote">+upvote</button>
+            <button>answer</button>
+        </span>
+        <hr />
+      </div>
+      <div>
+        <p>
+        Catlyn &nbsp;&nbsp;&nbsp;&nbsp;
+        <a class="follow" href="/catlyn">Follow pqr</a>
+        </p>
+        <h3><u>>Why is the sky blue?</u></h3>
+        <span>
+            <button class="upvote">+upvote</button>
+            <button>answer</button>
+        </span>
+        <hr />
+        </div>
+        <div>
+        <p>
+            Dan &nbsp;&nbsp;&nbsp;&nbsp;
+            <a class="follow" href="/dan">Follow pqr</a>
+            </p>
+            <h3><u>Why is the sky blue?</u></h3>
+            <span>
+                <button class="upvote">+upvote</button>
+                <button>answer</button>
+            </span>
+            <hr />
+            </div>
+      </main>
+    <div id="myId">
+      <p>
+        This is Paragraph
+      </p>
+      <div>
+        <input type = "radio" id = "yes" name="agreement">
+        <label for = "yes">Yes</label>
+        <input type = "radio" id = "no"name="agreement">
+        <label for = "no">No</label>
+      </div>
+    </div>
+    <h2>404 not found</h2>
+  </body>
+</html>
+
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inheritence</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Facebook</h1>
+  <h2>History</h2>
+  <span>
+    <label for="Username">Enter your Username: </label>
+  <input type="text" id="Username" placeholder="Username">
+  <label for="Password">Enter your Password: </label>
+  <input type="text" id="Password" placeholder="Password">
+  </span>
+  
+  <img src="Mark Zuckerbarg.jpeg" alt="Mark Zuckerbarg" height="200 px" width="200 px">
+  <h3>
+    <span>
+      The history of Facebook traces its growth from a college networking site to a global social networking service. It was launched as TheFacebook in 2004, and became Facebook in 2005.
+      Founded by Mark Zuckerberg and his college roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes at Harvard University, it was initially limited to Harvard students. 
+      It expanded to other colleges in the Boston area, the Ivy League, and gradually most universities in the United States and Canada, corporations, and by 2006 to everyone with a valid email address along with an age requirement of being 13 or older. 
+      Facebook introduced key features like the News Feed in 2006, which became central to user engagement. By 2007, Facebook surpassed MySpace in global traffic and became the world's most popular social media platform. 
+      The company focused on generating revenue through targeted advertising based on user data, a model that drove its rapid financial growth. In 2012, Facebook went public with one of the largest IPOs in tech history. 
+      Acquisitions played a significant role in Facebook's dominance. In 2012, it purchased Instagram, followed by WhatsApp and Oculus VR in 2014, extending its influence beyond social networking into messaging and virtual reality. 
+      These moves helped Facebook maintain its position as a leader in the tech industry.
+    </span>
+  </h3>
+</body>
+</html>
